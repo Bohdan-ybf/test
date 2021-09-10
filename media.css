@@ -32,6 +32,10 @@
 
     }
 
+    .product__text {
+        width: 305px;
+    }
+
     .col-md-4 {
         width: 101.33%;
     }
