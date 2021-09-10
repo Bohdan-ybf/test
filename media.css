@@ -26,6 +26,12 @@
 
 @media(max-width: 320px) {
 
+    .col-md-4 {
+        padding-left: 25px;
+
+        margin-bottom: 25px;
+    }
+
     .container {
 
         padding: 0 5px;
@@ -37,7 +43,7 @@
     }
 
     .col-md-4 {
-        width: 101.33%;
+        width: 100.33%;
     }
 
     .product__global-box {
