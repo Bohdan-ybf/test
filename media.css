@@ -20,7 +20,48 @@
 
 @media(max-width: 480px) {
     .col-md-4 {
-        width: 83.33%;
+        padding-left: 15px;
+
+        margin-bottom: 25px;
+    }
+
+    .container {
+
+        padding: 0 5px;
+
+    }
+
+    .product__text {
+        width: 305px;
+    }
+
+    .col-md-4 {
+        width: 95.33%;
+    }
+
+    .product__global-box {
+        width: 295px;
+    }
+
+    .product__image a {
+        width: 295px;
+    }
+
+    .product__image img {
+        width: 295px;
+    }
+
+    .coursor__touch {
+        width: 295px;
+    }
+
+    .hiden__url {
+        width: 295px;
+    }
+
+    .title__text-up {
+        font-size: 30px;
+
     }
 }
 
