@@ -27,7 +27,7 @@
 @media(max-width: 320px) {
 
     .col-md-4 {
-        padding-left: 25px;
+        padding-left: 15px;
 
         margin-bottom: 25px;
     }
@@ -43,7 +43,7 @@
     }
 
     .col-md-4 {
-        width: 100.33%;
+        width: 95.33%;
     }
 
     .product__global-box {
