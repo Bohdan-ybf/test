@@ -74,7 +74,7 @@ p {
 
     width: 20px;
     height: 20px;
-    background-image: url(../portfolio/img/cours.png);
+    background-image: url(./img/cours.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -94,7 +94,7 @@ p {
     height: 200px;
     /* width: 15px;
     height: 15px; */
-    background-image: url(../portfolio/img/photo.jpg);
+    background-image: url(./img/photo.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
